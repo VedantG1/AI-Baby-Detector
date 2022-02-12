@@ -1,0 +1,14 @@
+#heading{
+    font-family: 'Dosis', sans-serif;
+    text-shadow: 2px 2px grey;
+    color: black;
+    font-size: 40px;
+    background-color: cyan;
+    margin-top: 0px;
+    top: 0px;
+
+}
+body{
+    background: url(bg.jpg);
+    background-size: cover;
+}
